@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/WeatherFlow/static/css/main.c3ad8cb6.css",
-    "main.js": "/WeatherFlow/static/js/main.c2671efe.js",
+    "main.css": "/WeatherFlow/static/css/main.5bbd861a.css",
+    "main.js": "/WeatherFlow/static/js/main.2ccc241a.js",
     "static/js/684.e2b2b013.chunk.js": "/WeatherFlow/static/js/684.e2b2b013.chunk.js",
-    "static/js/952.5c95f22e.chunk.js": "/WeatherFlow/static/js/952.5c95f22e.chunk.js",
+    "static/js/544.d403f20d.chunk.js": "/WeatherFlow/static/js/544.d403f20d.chunk.js",
     "static/js/678.d5055a9a.chunk.js": "/WeatherFlow/static/js/678.d5055a9a.chunk.js",
     "static/js/523.e6a0accb.chunk.js": "/WeatherFlow/static/js/523.e6a0accb.chunk.js",
     "static/js/143.28d80197.chunk.js": "/WeatherFlow/static/js/143.28d80197.chunk.js",
@@ -33,10 +33,10 @@
     "static/media/calendar.png": "/WeatherFlow/static/media/calendar.24c974015dcc7b624f54.png",
     "static/media/humidity.svg": "/WeatherFlow/static/media/humidity.1b628b0ec753e3df1e33120f61431f25.svg",
     "index.html": "/WeatherFlow/index.html",
-    "main.c3ad8cb6.css.map": "/WeatherFlow/static/css/main.c3ad8cb6.css.map",
-    "main.c2671efe.js.map": "/WeatherFlow/static/js/main.c2671efe.js.map",
+    "main.5bbd861a.css.map": "/WeatherFlow/static/css/main.5bbd861a.css.map",
+    "main.2ccc241a.js.map": "/WeatherFlow/static/js/main.2ccc241a.js.map",
     "684.e2b2b013.chunk.js.map": "/WeatherFlow/static/js/684.e2b2b013.chunk.js.map",
-    "952.5c95f22e.chunk.js.map": "/WeatherFlow/static/js/952.5c95f22e.chunk.js.map",
+    "544.d403f20d.chunk.js.map": "/WeatherFlow/static/js/544.d403f20d.chunk.js.map",
     "678.d5055a9a.chunk.js.map": "/WeatherFlow/static/js/678.d5055a9a.chunk.js.map",
     "523.e6a0accb.chunk.js.map": "/WeatherFlow/static/js/523.e6a0accb.chunk.js.map",
     "143.28d80197.chunk.js.map": "/WeatherFlow/static/js/143.28d80197.chunk.js.map",
@@ -47,7 +47,7 @@
     "597.4239b9e0.chunk.js.map": "/WeatherFlow/static/js/597.4239b9e0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3ad8cb6.css",
-    "static/js/main.c2671efe.js"
+    "static/css/main.5bbd861a.css",
+    "static/js/main.2ccc241a.js"
   ]
 }
