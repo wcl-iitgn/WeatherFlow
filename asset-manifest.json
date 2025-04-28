@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2626d80c.css",
-    "main.js": "/static/js/main.42717b40.js",
+    "main.css": "/static/css/main.3bdab471.css",
+    "main.js": "/static/js/main.1fefe925.js",
     "static/js/31.34e605d0.chunk.js": "/static/js/31.34e605d0.chunk.js",
     "static/js/544.f4452f9a.chunk.js": "/static/js/544.f4452f9a.chunk.js",
     "static/js/678.14132c13.chunk.js": "/static/js/678.14132c13.chunk.js",
@@ -15,7 +15,6 @@
     "static/media/bakgroud.jpg": "/static/media/bakgroud.dd60efd29a682eae48f9.jpg",
     "static/media/dipesh.jpg": "/static/media/dipesh.c58862932153dd0901c8.jpg",
     "static/media/VimalMishra.jpeg": "/static/media/VimalMishra.71c90ff6a81d257d9201.jpeg",
-    "static/media/UNICEF_Logo.png": "/static/media/UNICEF_Logo.ce32fc8913dc02eff71d.png",
     "static/media/sunset.svg": "/static/media/sunset.eb8b1ead2d78e3edd794ad3829426919.svg",
     "static/media/sunrise.svg": "/static/media/sunrise.3082410371edbd7f37b217f268a9292a.svg",
     "static/media/thermometer-full.svg": "/static/media/thermometer-full.29de7f7e816c128c153d3cb905667a27.svg",
@@ -31,10 +30,11 @@
     "static/media/cloud-cover.png": "/static/media/cloud-cover.b95d361a2e32cf6016f1.png",
     "static/media/raining.png": "/static/media/raining.a6df9094f036eeced1fb.png",
     "static/media/calendar.png": "/static/media/calendar.24c974015dcc7b624f54.png",
+    "static/media/indus_bank.jpg": "/static/media/indus_bank.071e0393e680a29f0623.jpg",
     "static/media/humidity.svg": "/static/media/humidity.1b628b0ec753e3df1e33120f61431f25.svg",
     "index.html": "/index.html",
-    "main.2626d80c.css.map": "/static/css/main.2626d80c.css.map",
-    "main.42717b40.js.map": "/static/js/main.42717b40.js.map",
+    "main.3bdab471.css.map": "/static/css/main.3bdab471.css.map",
+    "main.1fefe925.js.map": "/static/js/main.1fefe925.js.map",
     "31.34e605d0.chunk.js.map": "/static/js/31.34e605d0.chunk.js.map",
     "544.f4452f9a.chunk.js.map": "/static/js/544.f4452f9a.chunk.js.map",
     "678.14132c13.chunk.js.map": "/static/js/678.14132c13.chunk.js.map",
@@ -47,7 +47,7 @@
     "391.18fa9a05.chunk.js.map": "/static/js/391.18fa9a05.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2626d80c.css",
-    "static/js/main.42717b40.js"
+    "static/css/main.3bdab471.css",
+    "static/js/main.1fefe925.js"
   ]
 }
